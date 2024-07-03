@@ -37,10 +37,14 @@ body {background-color: gray;}
     float: center;
     justify-content: space-evenly;}
 
-.média {justify-content: space-between;
+.média {display: flex;
+    flex-direction: row;
+    justify-content: space-between;
      float: center;}
 
 .offre {width: 20%;
-    float: center;}
+    float: center;
+}
+
 
 
