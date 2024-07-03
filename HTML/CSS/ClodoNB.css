@@ -23,3 +23,24 @@ body {background-color: gray;}
 
 .loupeuh {width: 3%;
     height: 3%;}
+
+.icone {display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;}
+
+.test {width: 5%;
+    float: center;
+    justify-content: space-evenly;}
+
+.icontext {display: flex;
+    flex-direction: row;
+    float: center;
+    justify-content: space-evenly;}
+
+.média {justify-content: space-between;
+     float: center;}
+
+.offre {width: 20%;
+    float: center;}
+
+
