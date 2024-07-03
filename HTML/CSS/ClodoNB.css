@@ -1,0 +1,25 @@
+body {background-color: gray;}
+
+.haut {display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;}
+
+.logo {width: 5%;
+    height: auto;
+    float: left;}
+
+.logement {text-align: center;
+    justify-content: space-between;}
+
+.web {width: 3%;
+    height: auto; 
+    float: right;}
+
+.haudroit {float: right;}
+
+.barre {display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;}
+
+.loupeuh {width: 3%;
+    height: 3%;}
